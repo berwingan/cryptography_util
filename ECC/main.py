@@ -85,7 +85,7 @@ p1 = Point(2339, 2213)
 mul =  7863
 print(mutliple_of_point(p1,mul,a,p))
 
-
+G = Point(1804,5368)
 s0 = Point(1804,5368)
 s1 = Point(4929,8240)
 s2 = Point(7909,7508)
@@ -95,5 +95,6 @@ C = addition(s0,s1,a,p)
 D = addition(s2,s2,a,p)
 print(addition(C,D,a,p))
 
+#9407, 4904
 
 
