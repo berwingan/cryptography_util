@@ -1,6 +1,6 @@
 #RSA
 
-Toy algorithm to encrypto and decrypto using the RSA methods of large primes
+Toy algorithm to encrypto and decrypt using the RSA method of large primes
 
 Set p1 and p2 to large primes.
 Choose a public key.
