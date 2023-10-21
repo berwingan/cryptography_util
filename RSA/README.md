@@ -1,4 +1,4 @@
-#RSA
+# RSA
 
 Toy algorithm to encrypto and decrypt using the RSA method of large primes
 
