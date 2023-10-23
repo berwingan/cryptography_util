@@ -1,4 +1,4 @@
-#Quadratice Arithmetic Program
+# Quadratice Arithmetic Program
 
 Example of arithmeitization using Rank-1 Constraint 
 
